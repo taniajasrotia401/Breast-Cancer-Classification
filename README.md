@@ -16,5 +16,6 @@ Techniques used: RFE for feature selection, SMOTE & ADASYN for class balancing, 
 2. **EDA**: Visualized feature importance, class distribution, and correlation.
 3. **Feature Selection**: Used RFE to select top features for Logistic Regression.
 4. **Modeling**: Trained models with and without resampling.
-5. **Resampling
+5. **Resampling**
+
 
